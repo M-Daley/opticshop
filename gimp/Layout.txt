@@ -1,0 +1,15 @@
+Color: 
+https://www.colorhexa.com/8080ff
+
+Fonts:
+https://www.fontsquirrel.com/
+
+Art Assets:
+https://pixabay.com/
+
+Fake Addr Gen:
+https://www.fakeaddressgenerator.com/
+
+Placement of Non-Collapsed Components:
+    - Assume all previous components are collapsed
+    
